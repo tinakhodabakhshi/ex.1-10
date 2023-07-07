@@ -76,7 +76,8 @@ body{
     text-align: center;
   }
   .link{
-    color:  #17594A;;
+    color:  #17594A;
+    text-decoration: none;
   }
   .last-bax{
     background-color: #30475E;
